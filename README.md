@@ -2,6 +2,8 @@
 
 # Mikael Kalesaran
 
+<img src="https://media1.tenor.com/m/6urnucvhtjkAAAAd/lego-batman.gif" width="330">
+
 ### Informatics Engineering Student · Developer · Builder
 
 *Turning ideas into things worth building.*
@@ -15,9 +17,9 @@
 
 ---
 
-## About
+## <img src="https://emojis.slackmojis.com/emojis/images/1697905391/71355/batmanrunq.gif?1697905391" width"30">About
 
-I'm **Mikael Kalesaran**, an Informatics Engineering student from Manado,Indonesia with an interest in building software, designing web experiences, and understanding how technology works beneath the surface.
+I'm **Mikael Kalesaran**, an Informatics Engineering student from **Manado,Indonesia** with an interest in building software, designing web experiences, and understanding how technology works beneath the surface.
 
 I enjoy taking an idea from a rough concept and turning it into something functional, polished, and genuinely useful.
 
@@ -25,7 +27,7 @@ This profile is a collection of the things I'm building, learning, and experimen
 
 ---
 
-## What I'm Exploring
+## <img src="https://emojis.slackmojis.com/emojis/images/1656508901/59877/sonic.gif?1656508901" width"30"> What I'm Exploring
 
 ```text
 Web Development       ███████████████████░░
@@ -35,17 +37,17 @@ Linux                 ███████████████░░░░�
 Creative Technology   ████████████░░░░░░░░
 ```
 
-### Currently learning
+### <img src="https://emojis.slackmojis.com/emojis/images/1620257416/36231/kirby-type.gif?1620257416" width"30"> Currently learning
 
 `JavaScript` · `Python` · `HTML` · `CSS` · `SQL`
 
-### Environment
+### <img src="https://emojis.slackmojis.com/emojis/images/1695459863/69592/charm.gif?1695459863" width"30"> Environment
 
 `Ubuntu` · `VS Code` · `Git` · `GitHub`
 
 ---
 
-## Selected Work
+## <img src="https://emojis.slackmojis.com/emojis/images/1666364400/61854/squirtle_jammin.gif?1666364400" width"30"> Selected Work
 
 ### XANDRO
 
@@ -55,7 +57,7 @@ A personal dashboard project designed around productivity, information, and a pe
 
 → [View project](https://github.com/biasedfilms/xandro)
 
-### More projects
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514066/227/powerup.gif?1643514066" width"30"> More projects
 
 I'm continuously building and experimenting with new ideas.
 
@@ -63,7 +65,7 @@ I'm continuously building and experimenting with new ideas.
 
 ---
 
-## Philosophy
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514230/1972/star.gif?1643514230" width"30"> Philosophy
 
 > **Build. Break. Understand. Rebuild better.**
 
@@ -77,7 +79,7 @@ All of them contribute to the next thing I build.
 
 ---
 
-## Beyond Code
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514418/3958/storm_trooper.gif?1643514418" width"30"> Beyond Code
 
 When I'm not writing code, I'm usually exploring technology, aviation, photography, filmmaking, music, or simply finding something new to learn.
 
@@ -85,21 +87,21 @@ I'm particularly interested in the intersection between **technology, design, an
 
 ---
 
-## GitHub
+## <img src="https://emojis.slackmojis.com/emojis/images/1620616441/37333/dragon-ball-z.gif?1620616441" width"30"> Connect
 
 <div align="center">
 
-![Mikael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biasedfilms&show_icons=true&hide_border=true&theme=transparent)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biasedfilmsdotnet@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aetrnaa)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/497271329448525824)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biasedfilms&layout=compact&hide_border=true&theme=transparent)
-
-</div>
+</div>  
 
 ---
 
 <div align="center">
 
-### Currently building.
+### <img src="https://emojis.slackmojis.com/emojis/images/1700594507/76357/gengar_winkq.gif?1700594507" width"30"> Visit
 
 **mikaelkalesaran.com**
 
