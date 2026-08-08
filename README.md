@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1697905391/71355/batmanrunq.gif?1697905391" width="30">About
+## <img src="https://emojis.slackmojis.com/emojis/images/1697905391/71355/batmanrunq.gif?1697905391" width="50">About
 
 I'm **Mikael Kalesaran**, an Informatics Engineering student from **Manado,Indonesia** with an interest in building software, designing web experiences, and understanding how technology works beneath the surface.
 
@@ -27,7 +27,7 @@ This profile is a collection of the things I'm building, learning, and experimen
 
 ---
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1656508901/59877/sonic.gif?1656508901" width="30"> What I'm Exploring
+## <img src="https://emojis.slackmojis.com/emojis/images/1656508901/59877/sonic.gif?1656508901" width="50"> What I'm Exploring
 
 ```text
 Web Development       ███████████████████░░
@@ -37,17 +37,17 @@ Linux                 ███████████████░░░░�
 Creative Technology   ████████████░░░░░░░░
 ```
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1620257416/36231/kirby-type.gif?1620257416" width="30"> Currently learning
+### <img src="https://emojis.slackmojis.com/emojis/images/1620257416/36231/kirby-type.gif?1620257416" width="50"> Currently learning
 
 `JavaScript` · `Python` · `HTML` · `CSS` · `SQL`
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1695459863/69592/charm.gif?1695459863" width="30"> Environment
+### <img src="https://emojis.slackmojis.com/emojis/images/1695459863/69592/charm.gif?1695459863" width="50"> Environment
 
 `Ubuntu` · `VS Code` · `Git` · `GitHub`
 
 ---
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1666364400/61854/squirtle_jammin.gif?1666364400" width="30"> Selected Work
+## <img src="https://emojis.slackmojis.com/emojis/images/1666364400/61854/squirtle_jammin.gif?1666364400" width="50"> Selected Work
 
 ### XANDRO
 
@@ -57,7 +57,7 @@ A personal dashboard project designed around productivity, information, and a pe
 
 → [View project](https://github.com/biasedfilms/xandro)
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643514066/227/powerup.gif?1643514066" width="30"> More projects
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514066/227/powerup.gif?1643514066" width="50"> More projects
 
 I'm continuously building and experimenting with new ideas.
 
@@ -65,7 +65,7 @@ I'm continuously building and experimenting with new ideas.
 
 ---
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643514230/1972/star.gif?1643514230" width="30"> Philosophy
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Philosophy
 
 > **Build. Break. Understand. Rebuild better.**
 
@@ -79,7 +79,7 @@ All of them contribute to the next thing I build.
 
 ---
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643514418/3958/storm_trooper.gif?1643514418" width="30"> Beyond Code
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514418/3958/storm_trooper.gif?1643514418" width="50"> Beyond Code
 
 When I'm not writing code, I'm usually exploring technology, aviation, photography, filmmaking, music, or simply finding something new to learn.
 
@@ -87,7 +87,7 @@ I'm particularly interested in the intersection between **technology, design, an
 
 ---
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1620616441/37333/dragon-ball-z.gif?1620616441" width="30"> Connect
+## <img src="https://emojis.slackmojis.com/emojis/images/1620616441/37333/dragon-ball-z.gif?1620616441" width="50"> Connect
 
 <div align="center">
 
@@ -101,7 +101,7 @@ I'm particularly interested in the intersection between **technology, design, an
 
 <div align="center">
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1700594507/76357/gengar_winkq.gif?1700594507" width="30"> Visit
+### <img src="https://emojis.slackmojis.com/emojis/images/1700594507/76357/gengar_winkq.gif?1700594507" width="50"> Visit
 
 **mikaelkalesaran.com**
 
