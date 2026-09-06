@@ -2,16 +2,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=704DA8&center=true&vCenter=true&repeat=false&width=360&height=45&lines=biasedfilms" alt="biasedfilms" />
 
-<sub>Informatics Engineering student · Developer · Designer · Building things I wish existed</sub>
+<sub>Informatics Engineering student from Indonesia · Making weird ideas work</sub>
 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Web%20Design-704DA8?style=flat-square" />
-<img src="https://img.shields.io/badge/Photography-704DA8?style=flat-square" />
-<img src="https://img.shields.io/badge/Film-704DA8?style=flat-square" />
-<img src="https://img.shields.io/badge/Creative%20Coding-704DA8?style=flat-square" />
-<img src="https://img.shields.io/badge/Privacy-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/HTML-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/CSS-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/React-704DA8?style=flat-square" />
 
 </div>
 
