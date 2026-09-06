@@ -43,7 +43,7 @@ Creative Technology   ████████████░░░░░░░�
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1695459863/69592/charm.gif?1695459863" height="28" style="vertical-align: middle;"> Environment
 
-`Ubuntu` · `VS Code` · `Git` · `GitHub`
+`MacOS` · `VS Code` · `JS` · `GitHub`
 
 ---
 
@@ -92,7 +92,7 @@ I'm particularly interested in the intersection between **technology, design, an
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biasedfilmsdotnet@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aetrnaa)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mikaelkalesaran)
 [![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/497271329448525824)
 
 </div>  
