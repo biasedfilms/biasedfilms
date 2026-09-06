@@ -1,0 +1,35 @@
+name: Generate Purple Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: biasedfilms
+          outputs: |
+            dist/github-snake.svg?color_snake=#8B5CF6&color_dots=#161B22,#2E1065,#4C1D95,#7C3AED,#A78BFA
+            dist/github-snake-dark.svg?color_snake=#A78BFA&color_dots=#0D1117,#211044,#3B1A6B,#6D28D9,#8B5CF6
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
