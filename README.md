@@ -7,19 +7,16 @@
 <br/><br/>
 
 <a href="https://mikaelkalesaran.com">
-  <img src="https://img.shields.io/badge/Website-704DA8?style=flat-square&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Website-704DA8?style=flat-square&logo=google-chrome&logoColor=white" />
 </a>&nbsp;
-
 <a href="https://instagram.com/mikaelkalesaran">
-  <img src="https://img.shields.io/badge/Instagram-704DA8?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-704DA8?style=flat-square&logo=instagram&logoColor=white" />
 </a>&nbsp;
-
 <a href="mailto:biasedfilmsdotnet@gmail.com">
-  <img src="https://img.shields.io/badge/Email-704DA8?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-704DA8?style=flat-square&logo=gmail&logoColor=white" />
 </a>&nbsp;
-
 <a href="https://github.com/biasedfilms">
-  <img src="https://img.shields.io/badge/GitHub-704DA8?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-704DA8?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -28,7 +25,11 @@
 
 <div align="center">
 
-**Daily**&nbsp;&nbsp;
+<table>
+<tr>
+<td align="left">
+
+<b>Daily</b>&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -36,20 +37,28 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-**Web**&nbsp;&nbsp;
+<br/>
+
+<b>Web</b>&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-**Tools**&nbsp;&nbsp;
+<br/>
+
+<b>Tools</b>&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
