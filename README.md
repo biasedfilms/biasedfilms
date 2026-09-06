@@ -6,21 +6,15 @@
 
 <br/><br/>
 
-<a href="https://mikaelkalesaran.com" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/Website-704DA8?style=flat-square&logo=google-chrome&logoColor=white" />
-</a>&nbsp;
+<div align="center">
 
-<a href="https://instagram.com/mikaelkalesaran" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/Instagram-704DA8?style=flat-square&logo=instagram&logoColor=white" />
-</a>&nbsp;
+<img src="https://img.shields.io/badge/Web%20Design-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/Photography-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/Film-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/Creative%20Coding-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/Privacy-704DA8?style=flat-square" />
 
-<a href="mailto:biasedfilmsdotnet@gmail.com" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/Email-704DA8?style=flat-square&logo=gmail&logoColor=white" />
-</a>&nbsp;
-
-<a href="https://github.com/biasedfilms" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/GitHub-704DA8?style=flat-square&logo=github&logoColor=white" />
-</a>
+</div>
 
 </div>
 
