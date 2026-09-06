@@ -98,6 +98,30 @@
 </picture>
 
 <br/><br/>
+<br/>
+
+<div align="center">
+
+### 🐍 contribution trail
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/biasedfilms/biasedfilms/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/biasedfilms/biasedfilms/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/biasedfilms/biasedfilms/output/github-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</picture>
+
+</div>
+
+<br/>
 
 <div align="center">
 
