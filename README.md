@@ -7,10 +7,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-704DA8?style=flat-square" />
-<img src="https://img.shields.io/badge/CSS-704DA8?style=flat-square" />
-<img src="https://img.shields.io/badge/JavaScript-704DA8?style=flat-square" />
-<img src="https://img.shields.io/badge/React-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/Digital%20Craft-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/Visuals-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/Experiments-704DA8?style=flat-square" />
+<img src="https://img.shields.io/badge/Ideas-704DA8?style=flat-square" />
 
 </div>
 
