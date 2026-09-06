@@ -1,112 +1,112 @@
 <div align="center">
 
-# Mikael Kalesaran
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=111111&center=true&vCenter=true&repeat=false&width=360&height=45&lines=biasedfilms" alt="biasedfilms" />
 
-<img src="https://media1.tenor.com/m/6urnucvhtjkAAAAd/lego-batman.gif" width="330">
+<sub>Informatics Engineering student · Developer · Designer · Building things I wish existed</sub>
 
-### Informatics Engineering Student · Developer · Builder
+<br/><br/>
 
-*Turning ideas into things worth building.*
-
-<br>
-
-[![Website](https://img.shields.io/badge/mikaelkalesaran.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikaelkalesaran.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<a href="https://mikaelkalesaran.com"><img src="https://img.shields.io/badge/Website-704DA8?style=flat-square&logo=google-chrome&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/mikaelkalesaran"><img src="https://img.shields.io/badge/Instagram-704DA8?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="mailto:biasedfilmsdotnet@gmail.com"><img src="https://img.shields.io/badge/Email-704DA8?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/biasedfilms"><img src="https://img.shields.io/badge/GitHub-704DA8?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1697905391/71355/batmanrunq.gif?1697905391" height="28" style="vertical-align: middle;">About
+<div align="center">
 
-I'm **Mikael Kalesaran**, an Informatics Engineering student from **Manado,Indonesia** with an interest in building software, designing web experiences, and understanding how technology works beneath the surface.
+**Daily**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-I enjoy taking an idea from a rough concept and turning it into something functional, polished, and genuinely useful.
+**Web**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-This profile is a collection of the things I'm building, learning, and experimenting with.
+**Tools**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
----
+</div>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1656508901/59877/sonic.gif?1656508901" height="28" style="vertical-align: middle;"> What I'm Exploring
+<br/>
 
-```text
-Web Development       ███████████████████░░
-Software Engineering  ████████████████░░░░░
-Cybersecurity         █████████████░░░░░░░
-Linux                 ███████████████░░░░░░
-Creative Technology   ████████████░░░░░░░░
-```
+<details>
+<summary>&nbsp;<b>the stack</b>&nbsp;—&nbsp;what am I breaking today?</summary>
+<br/>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1620257416/36231/kirby-type.gif?1620257416" height="28" style="vertical-align: middle;"> Currently learning
+<p align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+</p>
 
-`JavaScript` · `Python` · `HTML` · `CSS` · `SQL`
+<p align="center">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1695459863/69592/charm.gif?1695459863" height="28" style="vertical-align: middle;"> Environment
+</details>
 
-`MacOS` · `VS Code` · `JS` · `GitHub`
+<br/>
 
----
+<div align="center">
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1666364400/61854/squirtle_jammin.gif?1666364400" height="28" style="vertical-align: middle;"> Selected Work
+### 🛠️ Featured projects
 
-### XANDRO
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [`Xandro`](https://github.com/biasedfilms/xandro) | Personal productivity dashboard and digital workspace built around information, tools, and a personalized workflow. | `JavaScript` · `Web` · `UI/UX` |
+| [`Velora`](https://github.com/biasedfilms) | Privacy-first personal budgeting concept focused on local-first financial tracking, budgets, goals, and spending insights. | `Web` · `Local-first` |
+| [`More`](https://github.com/biasedfilms?tab=repositories) | Experiments, coursework, prototypes, and whatever I'm currently obsessed with. | `∞` |
 
-A personal dashboard project designed around productivity, information, and a personalized digital workspace.
+</div>
 
-**Focus:** `Web Development` · `UI/UX` · `JavaScript`
+<br/>
 
-→ [View project](https://github.com/biasedfilms/xandro)
+<div align="center">
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643514066/227/powerup.gif?1643514066" height="28" style="vertical-align: middle;"> More projects
+### 📊 GitHub activity
 
-I'm continuously building and experimenting with new ideas.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=biasedfilms&show_icons=true&title_color=ffffff&text_color=c9d1d9&icon_color=8B5CF6&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=biasedfilms&show_icons=true&title_color=111111&text_color=24292f&icon_color=8B5CF6&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=biasedfilms&show_icons=true&title_color=111111&text_color=24292f&icon_color=111111&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=biasedfilms&title_color=ffffff&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=biasedfilms&title_color=111111&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=biasedfilms&title_color=111111&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top languages" />
+</picture>
 
-→ [Explore my repositories](https://github.com/biasedfilms?tab=repositories)
+<br/><br/>
 
----
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="28" style="vertical-align: middle;"> Philosophy
+<div align="center">
 
 > **Build. Break. Understand. Rebuild better.**
 
-I believe the best way to learn technology is to build with it.
+<sub>powered by imagination, caffeine, nicotine, and too many browser tabs</sub>
 
-Some projects begin as experiments.  
-Some become tools.  
-Some simply teach me something I didn't know before.
+<br/><br/>
 
-All of them contribute to the next thing I build.
-
----
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1643514418/3958/storm_trooper.gif?1643514418" height="28" style="vertical-align: middle;"> Beyond Code
-
-When I'm not writing code, I'm usually exploring technology, aviation, photography, filmmaking, music, or simply finding something new to learn.
-
-I'm particularly interested in the intersection between **technology, design, and human experience**.
-
----
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1620616441/37333/dragon-ball-z.gif?1620616441" height="28" style="vertical-align: middle;"> Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biasedfilmsdotnet@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mikaelkalesaran)
-[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/497271329448525824)
-
-</div>  
-
----
-
-<div align="center">
-
-### <img src="https://emojis.slackmojis.com/emojis/images/1700594507/76357/gengar_winkq.gif?1700594507" height="28" style="vertical-align: middle;"> Visit
-
-**mikaelkalesaran.com**
-
-<br>
-
-<sub>© 2026 Mikael Kalesaran</sub>
+<sub>© 2026 Mikael Kalesaran · <b>biasedfilms</b></sub>
 
 </div>
