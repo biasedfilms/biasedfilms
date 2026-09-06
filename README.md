@@ -4,7 +4,6 @@
 
 <sub>Informatics Engineering student · Developer · Designer · Building things I wish existed</sub>
 
-<br/><br/>
 
 <div align="center">
 
