@@ -141,7 +141,7 @@
 
 <br/><br/>
 
-### 🐍 contribution trail
+### 🐍 Contribution trail
 
 <picture>
   <source
