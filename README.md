@@ -94,7 +94,7 @@
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [`Xandro`](https://github.com/biasedfilms/xandro) | Personal productivity dashboard and digital workspace built around information, tools, and a personalized workflow. | `JavaScript` · `Web` · `UI/UX` |
-| [`Velora`](https://github.com/biasedfilms) | Privacy-first personal budgeting concept focused on local-first financial tracking, budgets, goals, and spending insights. | `Web` · `Local-first` |
+| [`Velora`](https://github.com/biasedfilms/velora) | Privacy-first personal budgeting concept focused on local-first financial tracking, budgets, goals, and spending insights. | `Web` · `Local-first` |
 | [`More`](https://github.com/biasedfilms?tab=repositories) | Experiments, coursework, prototypes, and whatever I'm currently obsessed with. | `∞` |
 
 </div>
